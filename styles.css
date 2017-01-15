@@ -10,24 +10,20 @@ p{
     font-family: Verdana;
 
 }
+#title {
+    text-align: center;
+}
 table {
-	border: #000000 1px solid;
-	background-color: #acd1b2;
-	float: right;
-	margin-right: 10px;
-
+    border: #000000 1px solid;
+    background-color: #acd1b2;
+    margin-right: 10px;
 }
-
-td {
-	height: 150px;
-	width: 170px;
+img {
+   border: 1px solid #000000;     
 }
-
-td img {
-	height: 150px;
-	width: 170px;
-	box-shadow: none;
-}
-th {
- color: #3c4543
+a.:link {color:#ff0000;}
+a:visited {color:#0000ff;}
+a:hover {font-size:150%;}
+footer {
+    text-align: right;
 }
